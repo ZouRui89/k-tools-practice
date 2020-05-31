@@ -1,0 +1,6 @@
+commonLabels:
+  who: april
+resources:
+- ../base
+patchesStrategicMerge:
+- restartStrategy.yaml
